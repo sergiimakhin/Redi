@@ -1,1 +1,1 @@
-# Redi
+# Redi ML&AI Course
